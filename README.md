@@ -12,6 +12,7 @@ a square wave with a frequency of 1kHz and 50% AWGN. The receiver consists of fo
 5 Single Diode Mixer (1N4148)
 
 What I learned:
+
 1 Understand the IV curve of a component. The IV curve will allow an engineer to choose a Q point and obtain the desired results such as, linearity or non-linearity, maximum gain, energy efficient gain, avoid triode 
 and saturation stages
 
