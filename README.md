@@ -16,7 +16,7 @@ What I learned:
 1 Understand the IV curve of a component. The IV curve will allow an engineer to choose a Q point and obtain the desired results such as, linearity or non-linearity, maximum gain, energy efficient gain, avoid triode 
 and saturation stages
 
-2 There is a design process: use theortical analysis to understand the component and get ballpark numbers. Simulate the circuit and identify ideal and unideal behavior for later troubleshooting. 
+2 There is a design process: use theoretical analysis to understand the component and get ballpark numbers. Simulate the circuit and identify ideal and unideal behavior for later troubleshooting. 
 When building and testing the circuit, be very clear about what the desired outcome is and, if that desired outcome is not achieved, troubleshoot basic behavior and work up from there, (don't start with the most complicated idea).
 
 
